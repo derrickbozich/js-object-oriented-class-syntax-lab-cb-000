@@ -6,5 +6,5 @@ class BoardMember {
   }
 
   veto() => "No, I must disagree";
-  
+  approve() => "You can do that!";
 }
