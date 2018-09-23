@@ -8,4 +8,5 @@ class BoardMember {
   veto() => "No, I must disagree";
   approve() => "You can do that!";
   doCharity() => "I like to help people.";
+  releasePressStatement() => "You will see great things from Scuber.";
 }
